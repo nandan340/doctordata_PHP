@@ -14,3 +14,5 @@ Search functionality is provied with City filter with typeahead functionality fo
 
 Export to generate excel file .
 
+Diplayed Data on Tables is having amount greater that $10.0
+
